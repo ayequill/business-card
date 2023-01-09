@@ -1,0 +1,19 @@
+footer{
+    display: flex;
+    background: #161619;
+    justify-content: center;
+   
+
+
+    .social-icons{
+        display: grid;
+        grid-template-columns: repeat(4,1fr);
+        min-height: 3em;
+        gap: 1em;
+    }
+    .social-icons a{
+       padding: 0.2em;
+    font-size: 2em;
+    color: #918E9B;
+    }
+}
