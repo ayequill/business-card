@@ -1,7 +1,7 @@
 export default function Footer() {
   return (
     <footer>
-      <div className="social-icons">
+      <div className="social-icons animate__animated animate__heartBeat animate__infinite">
         <a target="_blank" href="http://twitter.com/ayequill">
           <i className="bi bi-twitter"></i>
         </a>

@@ -7,7 +7,7 @@ export default function Info() {
         <p className="name">Siaw A. Nicholas</p>
         <p className="position">Frontend Developer</p>
         <p className="web">siaw.dev</p>
-        <div className="buttons">
+        <div className="buttons ">
           <a href="mailto: ayequillgh@gmail.com" className="emailbtn">
             <i class="bi bi-envelope-at-fill"></i>Email
           </a>
